@@ -22,7 +22,7 @@ Once you have the [Prerequisites](#prerequisites) covered:
 1. Clone this repository from GitHub onto your local computer.
 
 ```sh
-git clone https://github.com/AkashRajpurohit/node-blockchain.git
+git clone https://github.com/AnilNITT/BlockChain-Nodejs.git
 ```
 
 2. Navigate into the project folder and install all of its necessary dependencies with Yarn.
